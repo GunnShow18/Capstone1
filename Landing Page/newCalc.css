@@ -1,0 +1,25 @@
+.calcDiv {
+    background-image: url(learn.jpg);
+    background-size: cover;
+    background-position-y: -200px;
+}
+
+input[type=button] {
+    padding:5px;
+    background-color:rgb(153, 153, 153); 
+    border:2px solid rgb(99, 99, 99); 
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+input[type=display] {
+    padding:5px; 
+    border:2px solid rgb(99, 99, 99); 
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+body {
+    background-image: url(brickwall.jpg);
+    background-size: 100%;
+}

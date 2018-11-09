@@ -1,0 +1,22 @@
+.container {
+    border-width: 1px;
+    height: auto;
+}
+
+body {
+    cursor: url();
+}
+
+.jumbotron {
+    background-color: rgb(167, 167, 167);
+    height: 200px;
+    border-bottom: 2px;
+    opacity: .95;
+}
+
+img {
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    padding: 5px; 
+    width: 300px; 
+}
