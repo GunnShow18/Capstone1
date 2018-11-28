@@ -1,6 +1,6 @@
 //Calculate Tip
 function calculateTip() {
-    var billAmt = document.getElementById("billamt").value;
+    var billAmt = $("#billamt").val();
     var serviceQual = document.getElementById("serviceQual").value;
     var numOfPeople = document.getElementById("peopleamt").value;
   
